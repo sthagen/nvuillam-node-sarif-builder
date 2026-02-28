@@ -2,6 +2,8 @@
 
 ## Beta
 
+## [4.0.0] 2026-02-28
+
 - Refactors SARIF processing for improved performance
 - Add more test cases
 - Upgrade NPM dependencies
